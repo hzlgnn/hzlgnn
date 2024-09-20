@@ -29,7 +29,3 @@
 
 ---
 
-## 📈 **GitHub Stats**
-![Hazal's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzlgnn&show_icons=true&theme=radical)
-
----
